@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/pre-dexed/debug/classes-2f0c535c923aab67504bd085837541f807a2fffc.jar" />
+    </item>
+    <item
+        jar="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/pre-dexed/debug/volley-163ba57baecb9bdfd067ae578d5682b1f3d5c387.jar" />
+    </item>
+    <item
+        jar="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/pre-dexed/debug/classes-003c0de74c2883d06befc4f2b9a5bb84d9ce8e4e.jar" />
+    </item>
+    <item
+        jar="/Users/hmcguire/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-3f997aee686e2292d68c4d027130ce439e5c3752.jar" />
+    </item>
+    <item
+        jar="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/hmcguire/git/android-native-apps/ign-next/IGNVolleyList/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-dd7810d281f551c40ae7b5e01b3e39ea748bb05f.jar" />
+    </item>
+
+</items>
